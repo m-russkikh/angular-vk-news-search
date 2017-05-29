@@ -1,0 +1,34 @@
+body {
+	margin-top: 20px;
+}
+
+.news-list{
+	margin: 20px 0;
+}
+
+.news-list ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.news-list ul li {
+	margin: 5px 0;
+}
+
+.pagination .counter {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.single-news {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.carousel-item .image {
+	text-align: center;
+}
+
+.carousel-item img {
+	cursor: pointer;
+}
